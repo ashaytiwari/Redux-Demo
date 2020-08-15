@@ -1,0 +1,3 @@
+This is the demo of cloning project
+
+Welcome to cloning project
